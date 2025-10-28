@@ -223,3 +223,4 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-seo-tag
+  - jekyll-archives
