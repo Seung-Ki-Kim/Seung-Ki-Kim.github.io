@@ -1,4 +1,4 @@
--Ki# The Site Configuration
+# The Site Configuration
 
 # Import the theme
 theme: jekyll-theme-chirpy
@@ -29,7 +29,7 @@ twitter:
 
 social:
   name: Seung-Ki, Kim
-  email: example@domain.com 
+  email: example@domain.com
   links:
     - https://twitter.com/username
     - https://github.com/username
@@ -117,7 +117,7 @@ comments:
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
-    reactions_enabled: # optional, default to the value of `1`
+    reactions_enabled: # optional, default to '1'
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
