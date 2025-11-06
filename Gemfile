@@ -2,6 +2,7 @@
 
 source "https://rubygems.org"
 
+gem "json"
 
 gemspec
 
@@ -19,7 +20,6 @@ end
 
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
 
-gem "json"
 
 gem "jekyll"
 gem "jekyll-paginate"
