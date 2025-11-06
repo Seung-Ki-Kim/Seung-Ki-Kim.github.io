@@ -3,6 +3,7 @@
 source "https://rubygems.org"
 
 gem "json"
+gem "sass-embedded", "~> 1.70.0"
 
 gemspec
 
