@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello,world!"
+title: "Hello, world!"
 date: 2025-11-06 14:00:00 +0900
 categories: []
 tags: []
