@@ -9,7 +9,7 @@ math: true
 
 # 판별 모델과 생성 모델
 
-![](/assets/img/gai/3_1.png)
+![](assets/img/gai/3_1.png)
 
 ## 판별 모델 (Discriminative Model)
 
