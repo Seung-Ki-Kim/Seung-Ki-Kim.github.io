@@ -5,12 +5,11 @@ date: 2026-04-03 14:00:00 +0900
 categories: [Generative AI]
 tags: []
 math: true
-img_path: /assets/img/gai/
 ---
 
 # 판별 모델과 생성 모델
 
-![](3.1.png)
+![](/assets/img/gai/3_1.png)
 
 ## 판별 모델 (Discriminative Model)
 
