@@ -4,6 +4,7 @@ title: "Probabilistic Modeling"
 date: 2026-04-02 14:00:00 +0900
 categories: [Generative AI]
 tags: []
+math: true
 # (선택) 썸네일 이미지 경로
 # img_path: /assets/img/post_thumbnails/
 ---

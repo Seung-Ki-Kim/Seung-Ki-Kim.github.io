@@ -1,22 +1,13 @@
-\---
-
+---
 layout: post
-
 title: "Optimization"
-
 date: 2026-04-03 14:00:00 +0900
-
-categories: \[Generative AI]
-
-tags: \[]
-
-\# (선택) 썸네일 이미지 경로
-
-\# img\_path: /assets/img/post\_thumbnails/
-
-\---
-
-
+categories: [Generative AI]
+tags: []
+math: true
+# (선택) 썸네일 이미지 경로
+# img\_path: /assets/img/post\_thumbnails/
+---
 
 # 판별 모델과 생성 모델
 
